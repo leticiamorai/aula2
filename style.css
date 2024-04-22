@@ -80,6 +80,7 @@ body {
 .aba-conteudo-titulo-princial{
 	font-size: 28px;
 	text-align: center;
+	justify-content: center;
 }
 
 .aba-conteudo-titulo-secundario{
