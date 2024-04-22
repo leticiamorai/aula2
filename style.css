@@ -3,7 +3,7 @@
 
 :root {
 	--fundo: #590d0d;		
-	--lilas: #8284f7;
+	--rosa: #ff76ea;
 	--ciano: #42f7ee;
 	--botao-on: #3A375E;
 	--botao-off: rgba(58, 55, 94, 0.5);
@@ -34,7 +34,7 @@ body {
 }
 
 .titulo-principal span {
-	color: var(--lilas);  /* trocando cor do _ */
+	color: var(--rosa);  /* trocando cor do _ */
 }
 
 .botao {
@@ -56,7 +56,7 @@ body {
 
 .botao.ativo {
 	background-color: var(--botao-on);	/* definindo cores do botão ativo*/
-	border-bottom: 4px solid var(--lilas);
+	border-bottom: 4px solid var(--rosa);
 	}
 
 .botoes {
@@ -84,7 +84,7 @@ body {
 
 .aba-conteudo-titulo-secundario{
 	text-align: center;
-	color: var(--lilas);
+	color: var(--rosa);
 	text-transform: uppercase;
 }
 
